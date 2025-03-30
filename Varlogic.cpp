@@ -79,7 +79,7 @@ int main () {
     // named "age"
     // with the value of 36.
     int age = 36;
-    int score=0;         // declaring the varible, but not defining the varible.
+    int score =0;         // declaring the varible, but not defining the varible.
  
     cout << "Always initiliazed your variables.\n";
 
